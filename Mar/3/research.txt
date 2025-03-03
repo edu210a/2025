@@ -2,3 +2,12 @@
 Confirmation bias
 Ostrich Effect
 Endowment effect
+
+-- ChatGPT
+Confirmation bias is a cognitive bias that involves the tendency to search for, interpret, and remember information in a way that confirms one's preexisting beliefs or hypotheses. People exhibiting this bias are more likely to notice and give weight to evidence that supports their views while dismissing or undervaluing evidence that contradicts them.
+
+-- ChatGPT
+The ostrich effect is a behavioral finance phenomenon where individuals avoid negative information or ignore potential risks, much like an ostrich is said to bury its head in the sand to avoid danger. This term is often used to describe investors who choose not to acknowledge bad news that might affect their investments, believing that ignorance will protect them from adverse outcomes.
+
+-- ChatGPT
+The endowment effect is a cognitive bias where people assign greater value to things merely because they own them. This phenomenon suggests that individuals often overvalue their possessions compared to identical items they do not own.
