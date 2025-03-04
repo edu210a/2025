@@ -11,3 +11,7 @@ The ostrich effect is a behavioral finance phenomenon where individuals avoid ne
 
 -- ChatGPT
 The endowment effect is a cognitive bias where people assign greater value to things merely because they own them. This phenomenon suggests that individuals often overvalue their possessions compared to identical items they do not own.
+
+Confirmation bias is the concept of searching for information that confirms you own beliefs.
+The ostrich effect is where people avoid negative information / risks.
+The endowment effect is where people assign greater value to things they own.
