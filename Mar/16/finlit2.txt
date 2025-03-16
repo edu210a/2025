@@ -1,0 +1,34 @@
+Lesson 1: Wages & Salary
+Salary: Fixed amount paid monthly or yearly. Doesn't depend on hours worked.
+Hourly wage: Money paid per hour worked.
+Gross pay: Total earnings.
+Net Pay: What you actually take home after taxes and deductions.
+Overtime (OT): Extra pay for hours worked beyond regular hours.
+Shift premium: Extra money for working not-so-great shifts (like overnight).
+
+Example: Alana
+Alana drives a tour bus and makes $12.75 per hour.
+
+a) 8=95$
+
+8 hours × $12.75 = $102
+$102 + $95 (tips) = $197
+b) Last week, she worked:
+
+Monday: 8h
+Tuesday: 9h + $50 tip
+Wednesday: 11h + $75 tip
+Thursday: day off
+Friday: 9h
+Saturday: 11h + $105 tip
+
+Monday: $102
+Tuesday: $115.75
+Wednesday: $142.25
+Thursday: $0
+Friday: $114.75
+Saturday: $142.25
+Total = $102 + $115.75 + $142.25 + $0 + $114.75 + $142.25 = $617
+
+4 Fridays: $617 × 4 = $2,468
+5 Fridays: $617 × 5 = $3,085
