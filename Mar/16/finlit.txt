@@ -1,6 +1,29 @@
--- Pay Frequency
-Types of pay frequencies:
- - Weekly
- - Bi-weekly
- - Semi-monthly
- - Monthly
+Bi-weekly.
+ - You get paid every two weeks.
+ - Typical bi-weekly pay schedule (e.g., every other Friday)
+ - Advantages:
+  * Larger paychecks, easier budgeting, two extra paychecks per year.
+ - Disadvantages:
+  * Longer wait between paychecks, irregular monthly budgeting, can feel inconsistent.
+
+Semi-monthly.
+ - You get paid twice a month (typically on the 15th and the last day).
+ - Typical semi-monthly pay schedule.
+ - Advantages:
+  * Consistent pay schedule, easier budgeting.
+ - Disadvantages:
+  * Longer gaps between paychecks, no extra paychecks.
+
+Monthly.
+ - You get paid once a month.
+ - Typical monthly pay schedule (e.g., end of each month).
+ - Advantages:
+  * Larger paychecks, easier for employers.
+ - Disadvantages:
+  * Long wait between paychecks, harder to handle unexpected expenses, need to budget carefully.
+
+Summary of Impacts:
+ - Weekly pay provides steady income but requires frequent budgeting.
+ - Bi-weekly pay offers a good balance but can create inconsistencies with monthly bills.
+ - Semi-monthly pay is predictable and works well for structured budgeting.
+ - Monthly pay requires the most financial discipline but aligns well with recurring expenses.
