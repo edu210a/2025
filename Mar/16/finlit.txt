@@ -1,0 +1,6 @@
+-- Pay Frequency
+Types of pay frequencies:
+ - Weekly
+ - Bi-weekly
+ - Semi-monthly
+ - Monthly
