@@ -1,0 +1,14 @@
+Algebra Tiles:
+Just look at the arrangement and write what polynomial they make. Then, figure out the factors.
+
+Factoring Trinomials:
+a. For x(2) + 6x + 8, it factors to (x + 2)(x + 4).
+b. For x(2) + 5x - 14, it’s (x + 7)(x - 2).
+c. For x(2) - 3x - 10, you get (x - 5)(x + 2).
+
+Factoring the Polynomial:
+Draw a rectangle to show the dimensions based on the factors you find.
+
+Factoring Binomials with Tiles:
+
+don't fit
