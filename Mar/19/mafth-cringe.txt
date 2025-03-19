@@ -1,1 +1,19 @@
+**Expanded Expressions**
 
+a)  
+(w + 3)(w + 2) = w^2 + 6w + 6
+
+b)  
+(x + 5)(x + 0) = x^2 + 5x
+
+c)  
+(y + 4)(y + 5) = y^2 + 9y + 20
+
+---
+
+**Rectangle Diagram Information**
+
+For the expression (p + 6)(p + 17):
+
+- **Width:** p and 6  
+- **Height:** p and 17
