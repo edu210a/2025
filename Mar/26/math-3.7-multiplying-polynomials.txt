@@ -1,1 +1,5 @@
 
+a) x² - x - 4y² - 2y
+b) 2c² - cd - 3d² + 2c - 3d
+c) a² - 3ab - 4a - 10b² + 20b
+d) p² + 2pq - pr - 8q² + 2qr
