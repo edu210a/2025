@@ -1,10 +1,10 @@
 Lesson 1: Wages & Salary
-Salary: Fixed amount paid monthly or yearly. Doesn't depend on hours worked.
-Hourly wage: Money paid per hour worked.
-Gross pay: Total earnings.
-Net Pay: What you actually take home after taxes and deductions.
-Overtime (OT): Extra pay for hours worked beyond regular hours.
-Shift premium: Extra money for working not-so-great shifts (like overnight).
+Salary: Fixed amount paid every month or year. Doesn't change with hours worked.
+Hourly wage: Money paid for each hour worked.
+Gross pay: Total money earned before anything is taken out.
+Net Pay: What you actually get to keep after taxes and deductions.
+Overtime (OT): Extra money for hours worked over regular hours.
+Shift premium: Extra money for working less desirable shifts.
 
 Example: Alana
 Alana drives a tour bus and makes $12.75 per hour.
@@ -13,6 +13,7 @@ a) 8=95$
 
 8 hours × $12.75 = $102
 $102 + $95 (tips) = $197
+
 b) Last week, she worked:
 
 Monday: 8h
@@ -32,3 +33,36 @@ Total = $102 + $115.75 + $142.25 + $0 + $114.75 + $142.25 = $617
 
 4 Fridays: $617 × 4 = $2,468
 5 Fridays: $617 × 5 = $3,085
+
+Example: Mark
+Mark works at a café. He makes $15.00/h. He works 45 hours this week.
+
+a) What is his gross pay for the week?
+
+b) Last week, Mark worked 38 hours and got a $30 tip. What is his gross pay for that week?
+
+Practice Problems
+
+Example: Emily works in retail and earns $14.00/h. She works 5 days a week, 8 hours a day.
+
+a) What is Emily's gross pay for a month with 4 Fridays?
+
+b) Emily gets tips that add up to about $50 a week. What is her total earnings for the month, including tips?
+
+Example: Tom is a graphic designer. He charges $25.00/h. 
+
+a) This week, Tom worked 35 hours. What is his gross pay?
+
+b) Last week, he worked 28 hours and made $200 in tips. What is his gross pay for that week?
+
+Example: Jessica is a librarian. She earns $13.50/h. 
+
+a) This month, she worked these hours:
+- Week 1: 36 h
+- Week 2: 42 h
+- Week 3: 38 h
+- Week 4: 41 h
+
+How many overtime hours did Jessica work this month?
+
+b) What is her gross pay for her first paycheque this month?
