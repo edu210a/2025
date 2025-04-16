@@ -1,7 +1,6 @@
-
-
 Alana drives a tour bus and makes $12.75 per hour.
-a)
+
+a) Gross pay for one day:
 - 8 * 12.75 = 102
 - 102 + 95 = 197
 - Gross Pay: 197
@@ -14,51 +13,57 @@ b) Last week she worked:
 - Friday: 9 h
 - Saturday: 11 h + $105 tip
 
-Total: 102 + 115.75 + 142.25 + 0 + 114.75 + 142.25 = 617
+Total for the week:
+- 102 + 115.75 + 142.25 + 0 + 114.75 + 142.25 = 617
 
-c) 2 months:
-- 617 * 4 = 2468
-And with 5 Fridays:
-- 617 * 5 = 3085
+c) Gross income for 2 months:
+- 617 * 4 = 2468 (4 Fridays)
+- 617 * 5 = 3085 (5 Fridays)
 
+---
 
+Jake operates heavy equipment and makes $20.50 per hour.
 
-
-a)
+a) Gross pay for this week:
 - Regular: 40 * 20.50 = 820
 - Overtime: 4 * 20.50 * 1.5 = 123
 - Gross Pay: 943
 
-b)
+b) Last week he worked:
 - Regular: 30 * 20.50 = 615
 - Shift: 10 * (20.50 + 2) = 225
 - Gross Pay: 840
 
+---
 
+Connor works as a tour guide and is paid $12.50 per hour.
 
-a)
+a) Gross pay for the month:
 - 8 * 5 * 4 = 160
 - 160 * 12.50 = 2000
 
-b) He also got tips this month:
+b) Tips he got this month:
 - Week 1: 100
 - Week 2: 120
 - Week 3: 90
 - Week 4: 160
 
-Total tips: 100 + 120 + 90 + 160 = 470
+Total tips:
+- 100 + 120 + 90 + 160 = 470
 
-Total earnings: 2000 + 470 = 2470
+Total earnings:
+- 2000 + 470 = 2470
 
 ---
 
+Sarah works as a personal support worker and makes $12.50 per hour. This month she worked:
 - Week 1: 38 h
 - Week 2: 45 h
 - Week 3: 42 h
 - Week 4: 35 h
 - Week 5: 40 h
 
-a) Overtime hours: 
+a) Overtime hours:
 - 5 (Week 2) + 2 (Week 3) = 7
 
 b) Her first paycheque:
@@ -66,6 +71,32 @@ b) Her first paycheque:
 - Week 2: 40 * 12.50 + 5 * 12.50 * 1.5 = 500 + 93.75 = 593.75
 - Total: 1068.75
 
-c)
+c) Pay for the second paycheque:
 - 35 * 12.50 + 35 * 2 = 437.50 + 70 = 507.50
 - Total for second paycheque: 507.50
+
+
+==================================================================================
+==================================================================================
+
+a)
+  - $625.00 + (4000 * 0.05) = $825.00
+
+b)
+  - $16,000 * 0.12 = $1920
+
+c)
+  - Increased Motivation
+  - Higher Sales
+  - Cost Control
+
+  - Income Variability
+  - Short-Term Focus
+
+
+
+a)
+  - $6250
+
+b)
+  - $1225
