@@ -1,41 +1,71 @@
-Lesson 1: Wages & Salary
-Salary: Fixed amount paid every month or year. Doesn't change with hours worked.
-Hourly wage: Money paid for each hour worked.
-Gross pay: Total money earned before anything is taken out.
-Net Pay: What you actually get to keep after taxes and deductions.
-Overtime (OT): Extra money for hours worked over regular hours.
-Shift premium: Extra money for working less desirable shifts.
+
 
 Alana drives a tour bus and makes $12.75 per hour.
+a)
+- 8 * 12.75 = 102
+- 102 + 95 = 197
+- Gross Pay: 197
 
-a) 8=95$
+b) Last week she worked:
+- Monday: 8 h
+- Tuesday: 9 h + $50 tip
+- Wednesday: 11 h + $75 tip
+- Thursday: day off
+- Friday: 9 h
+- Saturday: 11 h + $105 tip
 
-8 hours × $12.75 = $102
-$102 + $95 (tips) = $197
+Total: 102 + 115.75 + 142.25 + 0 + 114.75 + 142.25 = 617
 
-b) Last week, she worked:
+c) 2 months:
+- 617 * 4 = 2468
+And with 5 Fridays:
+- 617 * 5 = 3085
 
-Monday: 8h
-Tuesday: 9h + $50 tip
-Wednesday: 11h + $75 tip
-Thursday: day off
-Friday: 9h
-Saturday: 11h + $105 tip
 
-Monday: $102
-Tuesday: $115.75
-Wednesday: $142.25
-Thursday: $0
-Friday: $114.75
-Saturday: $142.25
-Total = $102 + $115.75 + $142.25 + $0 + $114.75 + $142.25 = $617
 
-4 Fridays: $617 × 4 = $2,468
-5 Fridays: $617 × 5 = $3,085
 
-Mark works at a cafe. He makes $15.00/h. He works 45 hours this week.
-a) This month, she worked these hours:
-- Week 1: 36 h
-- Week 2: 42 h
-- Week 3: 38 h
-- Week 4: 41 h
+a)
+- Regular: 40 * 20.50 = 820
+- Overtime: 4 * 20.50 * 1.5 = 123
+- Gross Pay: 943
+
+b)
+- Regular: 30 * 20.50 = 615
+- Shift: 10 * (20.50 + 2) = 225
+- Gross Pay: 840
+
+
+
+a)
+- 8 * 5 * 4 = 160
+- 160 * 12.50 = 2000
+
+b) He also got tips this month:
+- Week 1: 100
+- Week 2: 120
+- Week 3: 90
+- Week 4: 160
+
+Total tips: 100 + 120 + 90 + 160 = 470
+
+Total earnings: 2000 + 470 = 2470
+
+---
+
+- Week 1: 38 h
+- Week 2: 45 h
+- Week 3: 42 h
+- Week 4: 35 h
+- Week 5: 40 h
+
+a) Overtime hours: 
+- 5 (Week 2) + 2 (Week 3) = 7
+
+b) Her first paycheque:
+- Week 1: 38 * 12.50 = 475
+- Week 2: 40 * 12.50 + 5 * 12.50 * 1.5 = 500 + 93.75 = 593.75
+- Total: 1068.75
+
+c)
+- 35 * 12.50 + 35 * 2 = 437.50 + 70 = 507.50
+- Total for second paycheque: 507.50
