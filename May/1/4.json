@@ -1,0 +1,17 @@
+{
+  "table": [
+    "blue, 4",
+    "green, 5",
+    "orange, 6",
+    "red, 5",
+    "yellow, 6"
+  ],
+
+  "diagram": {
+    "blue": 4,
+    "green": 5,
+    "orange": 6,
+    "red": 5,
+    "yellow": 6
+  }
+}
