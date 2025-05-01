@@ -1,0 +1,19 @@
+{
+    "ordered": [
+        "Gaetanne Sylvester, sculpture",
+        "Huburt Theroux, painting",
+        "Huguette Gauthier, stained glass",
+        "James Culleton, painting",
+        "Nathalie Dupont, photography",
+        "Simone Hebert Allard, photography"
+    ],
+    
+    "properties": {
+        "gaetanne-sylvester": "sculpture",
+        "huburt-theroux": "painting",
+        "huguette-gauthier": "stained-glass",
+        "james-culleton": "painting",
+        "nathalie-dupont": "photography",
+        "simone-hebert-allard": "photography"
+    }
+}
