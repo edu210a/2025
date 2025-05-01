@@ -1,0 +1,30 @@
+{
+  "ordered": [
+    "badminton, shuttlecock",
+    "badminton, racquet",
+    "hockey, puck",
+    "hockey, stick",
+    "tennis, ball",
+    "tennis, racquet",
+    "soccer, ball"
+  ],
+
+  "pairs": {
+    "badminton": [
+      "shuttlecock",
+      "racquet"
+    ],
+    
+    "hockey": [
+        "puck",
+        "stick"
+    ],
+    
+    "tennis": [
+        "ball",
+        "racquet"
+    ],
+    
+    "soccer": "ball"
+  }
+}
