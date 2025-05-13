@@ -44,4 +44,55 @@ d = false;
 e = false;
 
 // 9a)
-thresholdX = (array<int>)
+thresholdX = (array<float>) [-2.5, 2.5];
+thresholdY = (array<int>) [1, 7];
+
+// 9b)
+thresholdX = (array<int>) [-3, 3];
+thresholdY = (array<int>) [0, 3];
+
+// 9c)
+thresholdX = (array<int>) [-3, 3];
+thresholdY = (array<int>) [-3, 0];
+
+// 9d)
+thresholdX = (array<int>) [-1, 2];
+thresholdY = (array<int>) [0, 3];
+
+// 10a)
+m = (string) "c";
+
+// 11a)
+[
+  {
+    time: "8:00",
+    distance: 15,
+    message: "idiot"
+  }
+]
+
+// 12a)
+// how else?
+
+// 12b)
+thresholdX = (array<int>) [40, 120];
+thresholdY = (array<float>) [18.0, 142.0];
+
+// 13a)
+// 13b)
+they are a function;
+
+// 13c)
+thresholdX = (array<string>) ["08:00", "16:00"];
+thresholdY = (array<number>) [4, 67];
+
+// 14a)
+["Day", "H"];
+
+// 14b)
+[false];
+
+// 14c)
+[true];
+
+// 15
