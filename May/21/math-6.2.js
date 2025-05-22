@@ -10,3 +10,5 @@ a) paralell
 b) perpendicular
 c) neither
 d) neither
+
+// 6)
